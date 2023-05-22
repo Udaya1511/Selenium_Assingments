@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T10:17:45 IST" name="Default suite" finished-at="2023-05-22T10:18:08 IST" duration-ms="22528">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T10:17:45 IST" name="Default test" finished-at="2023-05-22T10:18:08 IST" duration-ms="22528">
+      <class name="Assignment_RadioButton.radioBtn">
+        <test-method signature="SeleniumPractise()[pri:0, instance:Assignment_RadioButton.radioBtn@378542de]" started-at="2023-05-22T10:17:45 IST" name="SeleniumPractise" finished-at="2023-05-22T10:18:07 IST" duration-ms="22178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumPractise -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Assignment_RadioButton.radioBtn@378542de]" started-at="2023-05-22T10:18:07 IST" name="tearDown" finished-at="2023-05-22T10:18:08 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Assignment_RadioButton.radioBtn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
